@@ -23,6 +23,7 @@ permalink: /timeofday/
 
 <body>
     <h1>Posting Time Of Day</h1>
+    <p>Finding the right time to post may be a problem, but with this project, Legoland is able to find the ideal time to post based on the statistics of their latest posts. This project may also be used for any other profile.</p>
     <br>
     <br>
     <h1>Top 3 times to upload</h1>
